@@ -44,6 +44,14 @@
 | **Algorithm**             | Support Vector Classification (SVC), Support Vector Regression (SVR)            |
 | **Example Libraries**     | Scikit-learn, LibSVM                                                            |
 
+### Gradient Boosting Decision Tree (GBDT)
+| **Feature**               | **Description**                                                                 |
+|---------------------------|---------------------------------------------------------------------------------|
+| **CATBOOST**              | 迭代次数   n_estimators          决策树最大深度  max_depth                          |
+| **XGBOOST**               |                  学习         optuna超参数调优                                     |
+| **LIGHTGBM**              |                                                                                 |
+| **ADABOOST**              |                                                                                 |
+
 ---
 
 ## Deep Learning
